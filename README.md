@@ -3,7 +3,7 @@ PERSONALIZED ADVENTURE STORY GENERATOR
 
 This Python program generates a customized adventure story where the user becomes the star. By answering a few questions, such as their name, worst enemy, and superpower, the program generates an interactive story with colorful text and emojis. Get ready for a fun and engaging experience!
 
-USUAGE:
+USAGE:
 1. Ensure you have Python installed on your computer.
 2. Clone or download the repository.
 3. Navigate to the repository directory using the command-line interface.
